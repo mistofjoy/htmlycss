@@ -1,0 +1,2 @@
+#ignorando solo el code-workspace
+*.code-workspace
