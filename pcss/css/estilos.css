@@ -1,0 +1,20 @@
+/*Asi se escriben los comentarios en css*/
+
+/*Para afectar una etiqueta en todas sus repeticiones, escribes...*/
+p {
+    color: red;
+    font-size: 30px;
+}
+
+/*Para afectar una clase se escribe asi...*/
+.parrafo {
+    color: blue;
+    font-size: 15px;
+}
+
+/*Para afectar un ID se escribe asi...*/
+
+#especial {
+    color: violet;
+    font-size: 45px;
+}

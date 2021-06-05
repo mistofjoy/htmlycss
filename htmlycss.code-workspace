@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "practice"
+		},
+		{
+			"path": "practiceimg"
+		},
+		{
+			"path": "pvideo"
+		},
+		{
+			"path": "pforms"
+		},
+		{
+			"path": "pcalendar"
+		},
+		{
+			"path": "pbutton"
+		},
+		{
+			"path": "pcss"
+		},
+		{
+			"path": "pseudop"
+		},
+		{
+			"path": "pmodelocaja"
+		},
+		{
+			"path": "pherencia"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu-20.04",
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pherencia"
+	}
+}
