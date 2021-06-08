@@ -29,10 +29,13 @@
 		},
 		{
 			"path": "pherencia"
+		},
+		{
+			"path": "pespecificidad"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pherencia"
+		"liveServer.settings.multiRootWorkspaceName": "pespecificidad"
 	}
 }
