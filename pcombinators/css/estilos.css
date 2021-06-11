@@ -1,0 +1,22 @@
+/*Adjacent Sibling*/
+/*
+h2 + p {
+    color: red;
+}
+*/
+
+/*General Sibling*/
+/*
+h2 ~ p {
+    color: red;
+}
+*/
+
+/*Child y Descendant*/
+div p {
+    color: red;
+}
+
+article > p {
+    color: purple;
+}

@@ -32,10 +32,13 @@
 		},
 		{
 			"path": "pespecificidad"
+		},
+		{
+			"path": "pcombinators"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pespecificidad"
+		"liveServer.settings.multiRootWorkspaceName": "pcombinators"
 	}
 }
