@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    background-color: purple;
+    width: 100vw;
+    height: 100vh;
+    min-width: 240px;
+}
+
+section {
+    min-height: 60vh;
+    width: 90vw;
+    min-width: 240px;
+    max-width: 320px;
+    margin: auto;
+    background-color: red;
+}

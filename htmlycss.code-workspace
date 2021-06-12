@@ -35,10 +35,13 @@
 		},
 		{
 			"path": "pcombinators"
+		},
+		{
+			"path": "pmedidas"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pcombinators"
+		"liveServer.settings.multiRootWorkspaceName": "pmedidas"
 	}
 }
