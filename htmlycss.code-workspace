@@ -38,10 +38,16 @@
 		},
 		{
 			"path": "pmedidas"
+		},
+		{
+			"path": "pposition"
+		},
+		{
+			"path": "pdisplay"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pmedidas"
+		"liveServer.settings.multiRootWorkspaceName": "pposition"
 	}
 }
