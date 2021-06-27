@@ -44,6 +44,9 @@
 		},
 		{
 			"path": "pdisplay"
+		},
+		{
+			"path": "pflex"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",

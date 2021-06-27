@@ -1,0 +1,52 @@
+/*default*/
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/**/
+body {
+    font-size: 1.6rem;
+}
+
+.container {
+    border: .3rem solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    width: 10rem;
+    height: 10rem;
+}
+
+.box1 {
+    background-color: blue;
+}
+
+.box2 {
+    background-color: blueviolet;
+}
+
+.box3 {
+    background-color: burlywood;
+}
+
+.box4 {
+    background-color: cadetblue;
+}
+
+.box5 {
+    background-color: coral;
+}
+
+.box6 {
+    background-color: salmon;
+}
