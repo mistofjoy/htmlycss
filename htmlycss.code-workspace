@@ -47,10 +47,13 @@
 		},
 		{
 			"path": "pflex"
+		},
+		{
+			"path": "pvariablesyWebfonts"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "reto-display"
+		"liveServer.settings.multiRootWorkspaceName": "pvariablesyWebfonts"
 	}
 }
