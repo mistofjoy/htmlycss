@@ -50,10 +50,13 @@
 		},
 		{
 			"path": "pvariablesyWebfonts"
+		},
+		{
+			"path": "presponsive-mostlyfluid"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pvariablesyWebfonts"
+		"liveServer.settings.multiRootWorkspaceName": "presponsive-mostlyfluid"
 	}
 }
