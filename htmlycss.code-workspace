@@ -53,10 +53,13 @@
 		},
 		{
 			"path": "presponsive-mostlyfluid"
+		},
+		{
+			"path": "presponsive-layoutShifter"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "presponsive-mostlyfluid"
+		"liveServer.settings.multiRootWorkspaceName": "presponsive-layoutShifter"
 	}
 }
