@@ -56,10 +56,16 @@
 		},
 		{
 			"path": "presponsive-layoutShifter"
+		},
+		{
+			"path": "presponsive-columnDrop"
+		},
+		{
+			"path": "presponsive-img"
 		}
 	],
 	"remoteAuthority": "wsl+Ubuntu-20.04",
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "presponsive-layoutShifter"
+		"liveServer.settings.multiRootWorkspaceName": "presponsive-img"
 	}
 }
